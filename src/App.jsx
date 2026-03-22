@@ -1,6 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import viteLogo from "/mern.webp";
 import "./App.css";
 
 import kiarie from "/pro.jpg";
@@ -157,16 +157,15 @@ function App() {
           <div className="text-container">
             <h2>Junior MERN Stack Developer</h2>
             <p>
-              I'm a <strong>MERN Stack Developer</strong> finishing my course and actively
-              looking for junior opportunities. I enjoy turning complex problems
-              into clean, functional web applications using MongoDB, Express,
-              React, and Node.js. I care about writing maintainable code,
-              building solid APIs, and creating smooth user experiences. I'm
-              also exploring how AI tools can speed up development and improve
-              code quality.
+              I'm a <strong>MERN Stack Developer</strong> finishing my course
+              and actively looking for junior opportunities. I enjoy turning
+              complex problems into clean, functional web applications using
+              MongoDB, Express, React, and Node.js. I care about writing
+              maintainable code, building solid APIs, and creating smooth user
+              experiences. I'm also exploring how AI tools can speed up
+              development and improve code quality.
             </p>
           </div>
-          <img src={full} alt="Full Stack Developer" />
         </div>
       </section>
 

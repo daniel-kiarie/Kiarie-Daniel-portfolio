@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap');
+
 /* ─── RESET & TOKENS ─────────────────────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -27,7 +29,6 @@
   --nav-h: 70px;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap');
 
 html {
   scroll-behavior: smooth;

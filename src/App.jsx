@@ -3,6 +3,8 @@ import kiarie from "/pro.jpg";
 import menu from "/menu.svg";
 import close from "/close.svg";
 
+import "./App.css";
+
 const projects = [
   {
     title: "CarHub",

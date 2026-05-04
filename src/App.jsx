@@ -177,7 +177,7 @@ export default function App() {
               building robust end-to-end applications. I specialize in crafting
               high-performance backends and responsive frontends that prioritize
               the user. I actively integrate
-              <strong>AI-assisted development</strong> to ensure my code is both
+              <strong> AI-assisted development</strong> to ensure my code is both
               modern and efficient, and I’m currently seeking a junior role
               where I can contribute to innovative, impactful projects.
             </p>

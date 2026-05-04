@@ -8,11 +8,11 @@
 }
 
 :root {
-  /* ── 2 COLORS ONLY ── */
+  /* ── COLORS ── */
   --navy:  #0A0F2C;
   --amber: #F5A623;
 
-  /* opacity variants — still the same 2 colors */
+  /* opacity variants — still the same colors */
   --navy-light:  rgba(10, 15, 44, 0.08);
   --amber-dim:   rgba(245, 166, 35, 0.15);
 
